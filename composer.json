@@ -10,7 +10,7 @@
 	],
 	"require": {
 		"php": ">=5.3.7",
-		"phpmailer/phpmailer": "5.2.6",
+		"phpmailer/phpmailer": "5.2.28",
 		"symfony/config": "2.6.*",
 		"symfony/dependency-injection": "2.6.*",
 		"symfony/event-dispatcher": "2.6.*",
